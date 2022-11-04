@@ -1,6 +1,6 @@
 # shopping_app
 
-A new Flutter project.
+In this app, State management will be handled efficently by passing data from one routes to another and much more.
 
 ## Getting Started
 
