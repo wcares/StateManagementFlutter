@@ -2,6 +2,10 @@
 
 In this app, State management will be handled efficently by passing data from one routes to another and much more.
 
+This Project is still in active development and many features are being added everyday. Project will be completed before 12th November 2022.
+
+So beaware using the codes.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
