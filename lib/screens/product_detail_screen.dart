@@ -42,13 +42,14 @@ class ProductDetailScreen extends StatelessWidget {
               height: 10,
             ),
             Container(
-                padding: EdgeInsets.symmetric(horizontal: 10),
-                width: double.infinity,
-                child: Text(
-                  loadedProduct.description,
-                  textAlign: TextAlign.center,
-                  softWrap: true,
-                )),
+              padding: EdgeInsets.symmetric(horizontal: 10),
+              width: double.infinity,
+              child: Text(
+                loadedProduct.description,
+                textAlign: TextAlign.center,
+                softWrap: true,
+              ),
+            ),
           ],
         ),
       ),

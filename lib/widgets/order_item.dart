@@ -44,9 +44,9 @@ class _OrderItemState extends State<OrderItem> {
                     .map(
                       (prod) => Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
+                        children: <Widget>[
                           Text(
-                            prod.title,
+                            "${prod.title}",
                             style: TextStyle(
                               fontSize: 18,
                               fontWeight: FontWeight.bold,
