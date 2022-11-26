@@ -32,7 +32,7 @@ class Auth with ChangeNotifier {
   Future<void> _authenticate(
       String email, String password, String urlSegment) async {
     final url = Uri.parse(
-        "https://user your backend server url here.com/v1/accounts:$urlSegment?key=also key from your server");
+        "https://identitytoolkit.googleapis.com/v1/accounts:$urlSegment?key=AIzaSyA53WMU_ZPXyMpbH8h4__-7nKNDW2LjThQ");
 
     try {
       final response = await http.post(

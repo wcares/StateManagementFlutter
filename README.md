@@ -2,9 +2,9 @@
 
 In this app, State management will be handled efficently by passing data from one routes to another and much more.
 
-This Project is still in active development and many features are being added everyday. Project will be completed towards the end of Novemever, 2022.
-
-So beaware of using the codes.
+This project handles has multiples screens which leverages flutter provider package to manage state
+and passing data from one widgets to others. It has also implemented user authentication by using
+firebase Realtime Database as backend server.
 
 ## Getting Started
 
